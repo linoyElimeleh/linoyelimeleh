@@ -28,7 +28,7 @@
 - 🔍 Experience for 5 years in quality assurance, automation engineering, and continuous integration.
 - 🧠 Passionate to learn new stuff and expand my knowledge
 
-<a href ="https://drive.google.com/file/d/1A0gegP0lBJSmmgoFFXtgW9Q7920ozNBO/view?usp=sharing">check my Resume</a> 
+<a href ="https://drive.google.com/file/d/1bEaaysEsqVFa_s5yJAQ_bNtuOOVLehDH/view?usp=sharing">check my Resume</a> 
 
 ### 📫 How to reach me: 
 - ![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=linkedIn&logo=linkedIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flinoy-elimeleh-b9745b17a%2F)<a href ="https://www.linkedin.com/in/linoy-elimeleh-b9745b17a/">linkedin</a>
