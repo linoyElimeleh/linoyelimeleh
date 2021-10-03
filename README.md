@@ -23,9 +23,9 @@
 
 ### ABOUT ME
 - 🪖 Elite 8200 unit alumn.
-- 🎓 Computer science student 2nd year.
+- 🎓 Computer science student 3nd year.
 - 💻 Programming experience since 2016.
-- 🔍 Experience for 5 years in quality assurance, automation engineering, and continuous integration.
+- 🔍 Experience for 5 years in software engineering, quality assurance, automation engineering, and continuous integration.
 - 🧠 Passionate to learn new stuff and expand my knowledge
 
 <a href ="https://drive.google.com/file/d/1bEaaysEsqVFa_s5yJAQ_bNtuOOVLehDH/view?usp=sharing">check my Resume</a> 
