@@ -26,7 +26,7 @@
 - 🎓 BSc in computer science.
 - 🎓 Computer science MSc student.
 - 💻 Programming experience since 2016.
-- 🔍 Experience for 7 years in software engineering, quality assurance, automation engineering, and continuous integration.
+- 🔍 Experience for 8 years in software engineering, quality assurance, automation engineering, and continuous integration.
 - 🧠 Passionate to learn new stuff and expand my knowledge
 
 <a href ="https://drive.google.com/file/d/1aNrwVjeuxGcYP8f9KRJEvnh-swnvkFQF/view?usp=sharing">check my Resume</a> 
