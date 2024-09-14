@@ -32,5 +32,5 @@
 <a href ="https://drive.google.com/file/d/1aNrwVjeuxGcYP8f9KRJEvnh-swnvkFQF/view?usp=sharing">check my Resume</a> 
 
 ### 📫 How to reach me: 
-- ![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=linkedIn&logo=linkedIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flinoy-elimeleh-b9745b17a%2F)<a href ="https://www.linkedin.com/in/linoy-elimeleh-b9745b17a/">linkedin</a>
+- ![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=linkedIn&logo=linkedIn&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flinoy-elimeleh-b9745b17a%2F)<a href ="https://www.linkedin.com/in/linoy-elimeleh/">linkedin</a>
 - <g-emoji class="g-emoji" alias="incoming_envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e8.png">📨</g-emoji> lino1998y@gmail.com
